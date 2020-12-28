@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-93 2588 662 323" width="662pt" height="323pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.2 
+    <dc:date>2020-12-17 05:56:19 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="PingFang SC" font-size="14" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="500">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="PingFang SC" font-size="16" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="500">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="PingFang SC" font-size="10" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="500">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-6 -3 7 6" markerWidth="7" markerHeight="6" color="#ab7942">
+      <g>
+        <path d="M -4.8 0 L 0 1.8 L 0 -1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="500">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" viewBox="-4 -3 5 6" markerWidth="5" markerHeight="6" color="#00aeef">
+      <g>
+        <path d="M -2.88 0 L 0 1.08 L 0 -1.08 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>版面 1</title>
+    <g>
+      <title>图层 1</title>
+      <path d="M 320 2610.7922 L 368 2610.7922 C 372.4183 2610.7922 376 2614.374 376 2618.7922 L 376 2638.7922 C 376 2643.2105 372.4183 2646.7922 368 2646.7922 L 320 2646.7922 C 315.58172 2646.7922 312 2643.2105 312 2638.7922 L 312 2618.7922 C 312 2614.374 315.58172 2610.7922 320 2610.7922 Z" fill="white"/>
+      <text transform="translate(317 2618.7922)" fill="black">
+        <tspan font-family="PingFang SC" font-size="14" font-weight="500" x="1.555" y="15" textLength="55.552">Commit </tspan>
+      </text>
+      <path d="M 189.5 2611.4842 L 237.5 2611.4842 C 241.91828 2611.4842 245.5 2615.066 245.5 2619.4842 L 245.5 2639.4842 C 245.5 2643.9025 241.91828 2647.4842 237.5 2647.4842 L 189.5 2647.4842 C 185.08172 2647.4842 181.5 2643.9025 181.5 2639.4842 L 181.5 2619.4842 C 181.5 2615.066 185.08172 2611.4842 189.5 2611.4842 Z" fill="white"/>
+      <text transform="translate(186.5 2619.4842)" fill="black">
+        <tspan font-family="PingFang SC" font-size="14" font-weight="500" x="1.611" y="15" textLength="50.778">Prepare</tspan>
+      </text>
+      <path d="M 85 2611.4842 L 133 2611.4842 C 137.41828 2611.4842 141 2615.066 141 2619.4842 L 141 2639.4842 C 141 2643.9025 137.41828 2647.4842 133 2647.4842 L 85 2647.4842 C 80.58172 2647.4842 77 2643.9025 77 2639.4842 L 77 2619.4842 C 77 2615.066 80.58172 2611.4842 85 2611.4842 Z" fill="white"/>
+      <text transform="translate(82 2619.4842)" fill="black">
+        <tspan font-family="PingFang SC" font-size="14" font-weight="500" x="9.773" y="15" textLength="39.116">Write </tspan>
+      </text>
+      <path d="M 78 2692.5984 L 438 2692.5984 C 442.4183 2692.5984 446 2696.18 446 2700.5984 L 446 2712.5984 C 446 2717.0166 442.4183 2720.5984 438 2720.5984 L 78 2720.5984 C 73.58172 2720.5984 70 2717.0166 70 2712.5984 L 70 2700.5984 C 70 2696.18 73.58172 2692.5984 78 2692.5984 Z" fill="white"/>
+      <text transform="translate(75 2696.5984)" fill="black">
+        <tspan font-family="PingFang SC" font-size="14" font-weight="500" x="0" y="15" textLength="319.9">Ok       Ok                yes    yes            ok.     ok</tspan>
+      </text>
+      <path d="M -82.32143 2646.1946 L 10.678571 2646.1946 C 15.09685 2646.1946 18.678571 2649.7763 18.678571 2654.1946 L 18.678571 2688.3718 C 18.678571 2692.79 15.09685 2696.3718 10.678571 2696.3718 L -82.32143 2696.3718 C -86.73971 2696.3718 -90.32143 2692.79 -90.32143 2688.3718 L -90.32143 2654.1946 C -90.32143 2649.7763 -86.73971 2646.1946 -82.32143 2646.1946 Z" fill="yellow"/>
+      <text transform="translate(-85.32143 2660.2832)" fill="black">
+        <tspan font-family="PingFang SC" font-size="16" font-weight="500" x="12.86" y="17" textLength="73.28">Codinator</tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="86.14" y="17" textLength="13.32">    </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+      </text>
+      <path d="M -84.82143 2827.492 L 8.178571 2827.492 C 12.59685 2827.492 16.178571 2831.074 16.178571 2835.492 L 16.178571 2869.6693 C 16.178571 2874.0876 12.59685 2877.6693 8.178571 2877.6693 L -84.82143 2877.6693 C -89.23971 2877.6693 -92.82143 2874.0876 -92.82143 2869.6693 L -92.82143 2835.492 C -92.82143 2831.074 -89.23971 2827.492 -84.82143 2827.492 Z" fill="#40ff40"/>
+      <text transform="translate(-87.82143 2841.5807)" fill="black">
+        <tspan font-family="PingFang SC" font-size="16" font-weight="500" x="29.636" y="17" textLength="39.728">DB_2</tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="69.364" y="17" textLength="29.97">         </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+        <tspan font-family="PingFang SC" font-size="10" font-weight="500" x="99" y="17" textLength="3.33"> </tspan>
+      </text>
+      <path d="M -82.32143 2739.5 L 10.678571 2739.5 C 15.09685 2739.5 18.678571 2743.0817 18.678571 2747.5 L 18.678571 2781.6772 C 18.678571 2786.0955 15.09685 2789.6772 10.678571 2789.6772 L -82.32143 2789.6772 C -86.73971 2789.6772 -90.32143 2786.0955 -90.32143 2781.6772 L -90.32143 2747.5 C -90.32143 2743.0817 -86.73971 2739.5 -82.32143 2739.5 Z" fill="lime"/>
+      <text transform="translate(-85.32143 2753.5886)" fill="black">
+        <tspan font-family="PingFang SC" font-size="16" font-weight="500" x="31.228" y="17" textLength="36.544">DB_1</tspan>
+      </text>
+      <path d="M 98.07628 2681.653 L 75.89362 2764.1614 L 62.06384 2669.1953" marker-start="url(#FilledArrow_Marker)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <ellipse cx="113.5" cy="2602.0807" rx="12.000019" ry="13.500022" fill="#ccc"/>
+      <ellipse cx="113.5" cy="2602.0807" rx="12.000019" ry="13.500022" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(108.9 2592.8567)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x=".152" y="15" textLength="8.896">1</tspan>
+      </text>
+      <line x1="525.8686" y1="2669.1953" x2="18.428571" y2="2669.1953" marker-start="url(#FilledArrow_Marker_2)" stroke="#00aeef" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="2"/>
+      <line x1="528.3686" y1="2764.1614" x2="20.928571" y2="2764.1614" marker-start="url(#FilledArrow_Marker_2)" stroke="#00aeef" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="2" stroke-dasharray="4,4"/>
+      <line x1="533.3686" y1="2854.242" x2="20.928571" y2="2854.242" marker-start="url(#FilledArrow_Marker_2)" stroke="#00aeef" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="2"/>
+      <path d="M 160.53701 2681.8325 L 125.76596 2851.4468 L 108.87235 2669.1953" marker-start="url(#FilledArrow_Marker)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M 285.28862 2683.7534 L 221.6383 2855.242 L 182.2766 2669.1953" marker-start="url(#FilledArrow_Marker)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M 268.6724 2680.531 L 222.70213 2765.1614 L 183.34043 2669.1953" marker-start="url(#FilledArrow_Marker)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="62.32181" y1="2605.702" x2="62.32181" y2="2907.3535" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
+      <line x1="171.76596" y1="2605.1915" x2="171.76596" y2="2901.7528" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
+      <path d="M 383.10883 2680.84 L 342.9149 2765.1614 L 300.06383 2670" marker-start="url(#FilledArrow_Marker)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M 410.5947 2685.181 L 320.2766 2855.306 L 299 2670.259" marker-start="url(#FilledArrow_Marker)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="289.7774" y1="2599.5908" x2="289.7774" y2="2901.7528" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
+      <line x1="416.6436" y1="2611.4842" x2="416.6436" y2="2908.0455" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
+      <ellipse cx="220.39362" cy="2602.0807" rx="12.000019" ry="13.500022" fill="#ccc"/>
+      <ellipse cx="220.39362" cy="2602.0807" rx="12.000019" ry="13.500022" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(215.79362 2592.8567)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x=".152" y="15" textLength="8.896">2</tspan>
+      </text>
+      <ellipse cx="347.05482" cy="2602.0807" rx="12.000019" ry="13.500022" fill="#ccc"/>
+      <ellipse cx="347.05482" cy="2602.0807" rx="12.000019" ry="13.500022" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(342.45482 2592.8567)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x=".152" y="15" textLength="8.896">3</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
